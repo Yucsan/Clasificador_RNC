@@ -163,8 +163,8 @@ Con un enfoque crítico, estos son los puntos a tener en cuenta:
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/<tu-usuario>/<tu-repositorio>.git
-cd <tu-repositorio>
+git clone https://github.com/Yucsan/Clasificador_RNC.git
+cd .\Clasificador_RNC\
 
 # 2. Instalar dependencias
 pip install tensorflow matplotlib numpy scikit-learn jupyter
